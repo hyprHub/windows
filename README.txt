@@ -1,1 +1,1 @@
-{{ ##assistant project }}
+1.(assistant_project)
